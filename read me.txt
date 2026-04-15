@@ -1,0 +1,62 @@
+✅ Cách sửa từng bước (chuẩn 100%)
+🔹 Bước 1: Kiểm tra có .venv chưa
+
+Trong thư mục project, xem có thư mục .venv không
+
+👉 Nếu KHÔNG có → tạo mới:
+
+python -m venv .venv
+🔹 Bước 2: Kích hoạt lại
+
+Sau khi tạo xong, chạy:
+
+.\.venv\Scripts\Activate.ps1✔️ Cách 1 (chuẩn cho PowerShell)
+
+Chạy lệnh này để kích hoạt được virtual environment (.venv).
+
+.\.venv\Scripts\Activate.ps1
+
+Lưu ý: phải có dấu .\ phía trước
+
+✔️ Nếu vẫn lỗi (do chặn script)
+
+PowerShell có thể đang chặn chạy script, bạn cần mở quyền:
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+Sau đó chạy lại:
+
+.\.venv\Scripts\Activate.ps1
+✔️ Cách 2 (nếu dùng CMD thay vì PowerShell)
+
+Mở Command Prompt rồi chạy:
+
+.venv\Scripts\activate.bat
+🔍 Kiểm tra thêm
+Đảm bảo thư mục .venv tồn tại:
+dir
+Nếu chưa có, tạo lại môi trường:
+python -m venv .venvt
+Bước 2: Cài Git
+👉 Tải tại:
+https://git-scm.com/download/win
+👉 Khi cài nhớ chọn:
+✅ “Add Git to PATH” (rất quan trọng)
+1. .venv\Scripts\activate // chạy app6.py cục bộ trên máy trc   ktra xem ok chưa, nếu ok thì đẩy lên github
+pip install streamlit python-docx pandas openpyxl
+pip install streamlit python-docx pandas openpyxl reportlab xlsxwriter
+//pip install --upgrade streamlit python-docx pandas xlsxwriter
+pip install xlsxwriter
+
+2. pip install streamlit
+3. streamlit run app6.py     python -m streamlit run app.py
+...........
+mình sử dụng streamlit để deploy đó bạn nên không cần mua tên miền. Hãy hướng dẫn theo cách này nha
+.........
+Trong hình ảnh là github mình vừa mới khởi tạo. Bạn hãy hướng dẫn mình đẩy mã nguồn hệ thống thi trực tuyến lên nhé
+toke: quiz-app-deploy
+token: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
+...........
+pip install streamlit pandas python-docx gspread google-auth google-auth-oauthlib google-auth-httplib2
+............
+Hãy tạo file word như hình từ file ôn tập trắc nghiệm đính kèm KTGIUAHK1-TIN7.docx. Chỉ cần định dạng đơn giản, sạch, dễ đọc để import vào hệ thống. Tạo file Word theo mẫu Chi gửi ở hình (hiển thị từng câu hỏi + 4 lựa chọn + đáp án cuối mỗi câu
