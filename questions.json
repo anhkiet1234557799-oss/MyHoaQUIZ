@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Dữ liệu số trong bảng tính được hiểu là:",
+        "options": [
+            "Chỉ gồm các số nguyên",
+            "Chỉ gồm các số thập phân",
+            "Các số nguyên hoặc số thập phân",
+            "Các ký tự và chữ cái"
+        ],
+        "answer": "Các số nguyên hoặc số thập phân",
+        "image_base64": null
+    },
+    {
+        "question": "Việc định dạng dữ liệu số trong bảng tính cho phép:",
+        "options": [
+            "Thay đổi giá trị của số",
+            "Quy định cách hiển thị của số",
+            "Xóa dữ liệu trong ô",
+            "Sao chép dữ liệu sang ô khác"
+        ],
+        "answer": "Quy định cách hiển thị của số",
+        "image_base64": null
+    },
+    {
+        "question": "Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
+        "options": [
+            "Tạo trang tính mới.",
+            "Chèn thêm trang tính.",
+            "Di chuyển trang tính.",
+            "Sao chép trang tính."
+        ],
+        "answer": "Di chuyển trang tính.",
+        "image_base64": null
+    },
+    {
+        "question": "Sao chép một trang chiếu sang vị trí mới, em nháy nút phải chuột vào tên trang tính và chọn:",
+        "options": [
+            "Font.",
+            "Border.",
+            "Number.",
+            "Move or Copy."
+        ],
+        "answer": "Move or Copy.",
+        "image_base64": null
+    },
+    {
+        "question": "Lựa chọn Outline trong cửa sổ Format Cells dùng để làm gì?",
+        "options": [
+            "Không kẻ khung.",
+            "Kẻ khung bên ngoài.",
+            "Kẻ đường viền ô.",
+            "Chọn kiểu đường kẻ."
+        ],
+        "answer": "Kẻ khung bên ngoài.",
+        "image_base64": null
+    },
+    {
+        "question": "Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn",
+        "options": [
+            "Color.",
+            "Style.",
+            "Presets.",
+            "Border."
+        ],
+        "answer": "Color.",
+        "image_base64": null
+    },
+    {
+        "question": "Điều kiện tiên quyết để có thể áp dụng thuật toán tìm kiếm nhị phân cho một danh sách là gì?",
+        "options": [
+            "Danh sách phải có ít nhất 10 phần tử.",
+            "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
+            "Danh sách phải chứa các số nguyên.",
+            "Danh sách không được chứa các giá trị trùng lặp."
+        ],
+        "answer": "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
+        "image_base64": null
+    },
+    {
+        "question": "Trong thuật toán tìm kiếm nhị phân, tại mỗi bước lặp, vùng tìm kiếm sẽ thay đổi như thế nào?",
+        "options": [
+            "Giảm đi 1 phần tử.",
+            "Giảm đi 2 phần tử.",
+            "Thu hẹp lại chỉ còn một nửa so với bước trước đó.",
+            "Giữ nguyên kích thước cho đến khi tìm thấy."
+        ],
+        "answer": "Thu hẹp lại chỉ còn một nửa so với bước trước đó.",
+        "image_base64": null
+    },
+    {
+        "question": "Cho danh sách [An, Bình, Hòa, Liên, Mai, Phương, Trang, Trúc, Tước], nếu sử dụng thuật toán tìm kiếm nhị phân để tìm khách hàng tên \"Trúc\", ta cần thực hiện bao nhiêu bước so sánh?",
+        "options": [
+            "3 bước.",
+            "5 bước.",
+            "8 bước.",
+            "9 bước."
+        ],
+        "answer": "3 bước.",
+        "image_base64": null
+    },
+    {
+        "question": "Cho danh sách đã được sắp xếp theo thứ tự bảng chữ cái [Albania, Bolivia, Canada, Germany, Greenland, Iceland, Portugal, Scotland, Vietnam], ở lần kiểm tra đầu tiên của thuật toán tìm kiếm nhị phân, phần tử nào được chọn?",
+        "options": [
+            "Canada",
+            "Germany",
+            "Greenland",
+            "Iceland"
+        ],
+        "answer": "Greenland",
+        "image_base64": null
+    },
+    {
+        "question": "Hiệu ứng động trong trình chiếu là gì?",
+        "options": [
+            "Cách thay đổi màu nền",
+            "Cách và thời điểm xuất hiện",
+            "Cách chèn hình ảnh",
+            "Cách lưu tệp"
+        ],
+        "answer": "Cách và thời điểm xuất hiện",
+        "image_base64": null
+    },
+    {
+        "question": "Hiệu ứng cho các đối tượng gọi là gì?",
+        "options": [
+            "Hiệu ứng chuyển trang",
+            "Hiệu ứng văn bản",
+            "Hiệu ứng đối tượng",
+            "Hiệu ứng hình nền"
+        ],
+        "answer": "Hiệu ứng đối tượng",
+        "image_base64": null
+    },
+    {
+        "question": "Hiệu ứng chuyển trang có tác dụng gì?",
+        "options": [
+            "Thay đổi nội dung",
+            "Tạo cách chuyển trang",
+            "Thay đổi màu chữ",
+            "Chèn âm thanh"
+        ],
+        "answer": "Tạo cách chuyển trang",
+        "image_base64": null
+    },
+    {
+        "question": "Dùng quá nhiều hiệu ứng sẽ?",
+        "options": [
+            "Gây rối mắt",
+            "Dễ tập trung hơn",
+            "Rõ ràng hơn",
+            "Tăng tốc độ"
+        ],
+        "answer": "Gây rối mắt",
+        "image_base64": null
+    },
+    {
+        "question": "Khi nào nên dùng hiệu ứng?",
+        "options": [
+            "Nội dung không quan trọng",
+            "Muốn sinh động",
+            "Không có hình ảnh",
+            "Giảm thời gian"
+        ],
+        "answer": "Muốn sinh động",
+        "image_base64": null
+    },
+    {
+        "question": "Hiệu ứng trang chiếu nằm ở thẻ nào?",
+        "options": [
+            "Transitions",
+            "Animations",
+            "Design",
+            "Insert"
+        ],
+        "answer": "Transitions",
+        "image_base64": null
+    },
+    {
+        "question": "Có bao nhiêu loại hiệu ứng động?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "4",
+        "image_base64": null
+    },
+    {
+        "question": "Định dạng phù hợp?",
+        "options": [
+            "Tiêu đề thường, nội dung đậm",
+            "Cả hai đậm",
+            "Tiêu đề đậm, nội dung thường",
+            "Cả hai thường"
+        ],
+        "answer": "Tiêu đề đậm, nội dung thường",
+        "image_base64": null
+    },
+    {
+        "question": "Hiệu ứng đối tượng nằm ở thẻ nào?",
+        "options": [
+            "Transitions",
+            "Animations",
+            "Design",
+            "Insert"
+        ],
+        "answer": "Animations",
+        "image_base64": null
+    },
+    {
+        "question": "Hiệu ứng cho trang chiếu gọi là gì?",
+        "options": [
+            "Hiệu ứng đối tượng",
+            "Hiệu ứng chuyển trang",
+            "Hiệu ứng di chuyển",
+            "Hiệu ứng xoay"
+        ],
+        "answer": "Hiệu ứng chuyển trang",
+        "image_base64": null
+    }
+]
